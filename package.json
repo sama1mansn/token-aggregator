@@ -7,7 +7,7 @@
     "node": "16.x"
   },
   "dependencies": {
-    "@bonfida/spl-name-service": "^0.1.21",
+    "@bonfida/spl-name-service": "^0.2.05",
     "@solana/spl-token-registry": "^0.2.286",
     "@solana/web3.js": "^1.29.2",
     "@types/cors": "^2.8.12",
